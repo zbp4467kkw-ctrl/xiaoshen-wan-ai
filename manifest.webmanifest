@@ -1,0 +1,12 @@
+{
+  "name": "康复小沈",
+  "short_name": "康复小沈",
+  "description": "小沈玩Ai · 智能体态评估与健康管理",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07101f",
+  "theme_color": "#07101f",
+  "icons": [
+    { "src": "app-icon.jpg", "sizes": "512x512", "type": "image/jpeg", "purpose": "any maskable" }
+  ]
+}
